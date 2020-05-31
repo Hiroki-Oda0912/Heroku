@@ -31,6 +31,7 @@
             <div class="posts col-md-8 mx-auto mt-3">
                 @foreach($posts as $post)
                     <div class="post">
+                        <p>ニュース一覧</p>
                         <div class="row">
                             <div class="text col-md-6">
                                 <div class="date">
